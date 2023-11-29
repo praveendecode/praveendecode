@@ -1,6 +1,6 @@
 <h1 align="center">Howdy👋 ,I'm Praveen</h1>
 
-<h3 align="center">Data Scientist Based on India</h3>
+<h3 align="center">Data Scientist Based In India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveendecode&label=Profile%20views&color=0e75b6&style=flat" alt="praveendecode" /> </p>
 
