@@ -12,5 +12,5 @@
 
 - 💬 Ask me about data science tech stacks , docker 
 
-- 📫 reach me **n.praveen2128@gmail.com**
+- 📫 reach me **code.praveendev@gmail.com**
 
