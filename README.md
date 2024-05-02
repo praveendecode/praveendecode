@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveendecode&label=Profile%20views&color=0e75b6&style=flat" alt="praveendecode" /> </p>
 
-- Graduate in Computer Science and Engineering
+- Graduate in BE Computer Science and Engineering
 
 - Microsoft Azure Data Scientist Associate Certified [visit](https://drive.google.com/file/d/1gBArS0xD2GDVsDqkyxf_MsjylDzJBfaZ/view)
 
