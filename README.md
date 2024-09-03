@@ -8,7 +8,7 @@
 
 - AWS Certified ML Specialty [visit](https://www.linkedin.com/feed/update/urn:li:activity:7236245786932473856/)
 
-- AWS Certified Cloud Practitioner [visit](https://www.linkedin.com/feed/update/urn:li:activity:7194261331070361601/)_
+- AWS Certified Cloud Practitioner [visit](https://www.linkedin.com/feed/update/urn:li:activity:7194261331070361601/)
 
 - Microsoft Azure Data Scientist Associate Certified [visit](https://drive.google.com/file/d/1gBArS0xD2GDVsDqkyxf_MsjylDzJBfaZ/view)
 
