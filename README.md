@@ -14,7 +14,7 @@
 
 - Microsoft Azure AI-900 Certified [visit](https://drive.google.com/file/d/1BsYKjOsSagqHSypBb90NX6Hj9j_HbFdL/view?usp=sharing)
 
-- 💬 Ask me about data science tech stacks , docker 
+- 💬 Ask me about data science tech stacks , docker , data engineering
 
 - 📫 reach me **code.praveendev@gmail.com**
 
