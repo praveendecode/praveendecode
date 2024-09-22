@@ -6,19 +6,19 @@
 
 - Graduate in BE Computer Science and Engineering
 
-- AWS Certified ML Specialty [visit](https://www.linkedin.com/feed/update/urn:li:activity:7236245786932473856/)
+**AWS Certified ML Specialty [visit](https://www.linkedin.com/feed/update/urn:li:activity:7236245786932473856/)**
 
-- AWS Certified Cloud Practitioner [visit](https://www.linkedin.com/feed/update/urn:li:activity:7194261331070361601/)
+**AWS Certified Cloud Practitioner [visit](https://www.linkedin.com/feed/update/urn:li:activity:7194261331070361601/)**
 
-- Microsoft Azure Data Scientist Associate Certified [visit](https://drive.google.com/file/d/1gBArS0xD2GDVsDqkyxf_MsjylDzJBfaZ/view)
+**Microsoft Azure Data Scientist Associate Certified [visit](https://drive.google.com/file/d/1gBArS0xD2GDVsDqkyxf_MsjylDzJBfaZ/view)**
 
-- Microsoft Azure AI-900 Certified [visit](https://drive.google.com/file/d/1BsYKjOsSagqHSypBb90NX6Hj9j_HbFdL/view?usp=sharing)
+**Microsoft Azure AI-900 Certified [visit](https://drive.google.com/file/d/1BsYKjOsSagqHSypBb90NX6Hj9j_HbFdL/view?usp=sharing)**
 
-- 💬 Ask me about data science tech stacks , docker , data engineering
+**💬 Ask me about data science tech stacks , docker , data engineering**
 
-- 📫 **Reach me :** [MAIL](hellopraveends@gmail.com)
+**📫 Reach me : [MAIL](hellopraveends@gmail.com)**
 
-- 🌐 ** Socials :**
+**Socials :**
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/praveendatascientist)
 
