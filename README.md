@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveendecode&label=Profile%20views&color=0e75b6&style=flat" alt="praveendecode" /> </p>
 
-- Graduate in BE Computer Science and Engineering
+**Graduated in BE Computer Science and Engineering**
 
 **AWS Certified ML Specialty [visit](https://www.linkedin.com/feed/update/urn:li:activity:7236245786932473856/)**
 
