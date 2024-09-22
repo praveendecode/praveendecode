@@ -23,6 +23,6 @@
 
 
 
-[![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveendecode&show_icons=true&theme=dracula)](https://github.com/praveendecode/github-readme-stats)
+[![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveendecode&show_icons=true&theme=onedark)](https://github.com/praveendecode/github-readme-stats)
 
 
