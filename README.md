@@ -16,7 +16,7 @@
 
 **💬 Ask me about data science tech stacks , docker , data engineering**
 
-**📫 Reach me : [MAIL](hellopraveends@gmail.com)**
+**📫 Reach me : hellopraveends@gmail.com**
 
 **Socials :**
 
