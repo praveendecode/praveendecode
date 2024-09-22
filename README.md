@@ -25,3 +25,5 @@
 
 [![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveendecode)](https://github.com/praveendecode/github-readme-stats)
 
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
