@@ -3,7 +3,7 @@
 <h3 align="center">Data Scientist From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveendecode&label=Profile%20views&color=149414&style=flat" alt="praveendecode" /> </p>
-
+ 
 **Graduated in BE Computer Science and Engineering**
 
 **AWS Certified ML Specialty [visit](https://www.linkedin.com/feed/update/urn:li:activity:7236245786932473856/)**
