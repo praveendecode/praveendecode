@@ -3,6 +3,10 @@
 <h3 align="center">Data Scientist From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveendecode&label=Profile%20views&color=149414&style=flat" alt="praveendecode" /> </p>
+
+
+# About Me:
+
  
 **Graduated in BE Computer Science and Engineering**
 
