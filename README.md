@@ -20,7 +20,7 @@
 
 **💬 Ask me about Data Science Tech Stacks , Data Engineering**
 
-**📫 Reach me : hellopraveends@gmail.com**
+**📫 Reach me : hellopraveennarasimman@gmail.com**
 
 
 ### **Socials :**
