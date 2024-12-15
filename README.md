@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveendecode&label=Profile%20views&color=149414&style=flat" alt="praveendecode" /> </p>
 
-https://media.licdn.com/dms/image/v2/D5616AQEtWESvu7f4qQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734260208184?e=1740009600&v=beta&t=GhADDX8TYtHhNG12oHKosTwaFcFeqnpZzVb4UuNhLwA
-
 # About Me:
 
  
